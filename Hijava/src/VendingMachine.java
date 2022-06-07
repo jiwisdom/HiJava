@@ -21,7 +21,7 @@ public class VendingMachine extends JFrame implements ActionListener {
 	private JTextField moneyFld, changeFld;
 
 	public VendingMachine() {
-		setTitle("자판기");
+		setTitle("자판기~~");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
 		// getPnl
